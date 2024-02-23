@@ -34,7 +34,7 @@ function Gallery() {
         </div>
         <div className="gallery-img">
             {filterData?.slice(0,6).map(dt =>(
-               <img src={dt.url} alt=""/>
+               <img src={dt.imgUrl} alt=""/>
             ))}
             
         </div>
