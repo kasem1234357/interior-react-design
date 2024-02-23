@@ -12,8 +12,8 @@ function Gallery() {
     }
     useEffect(()=>{
       axios.get('https://interior-server-xxlm.onrender.com/api/user/post').then(res => {
-        setData(res.data)
-        setFilterData(res.data)
+        setData(res.data.products)
+        setFilterData(res.data.products)
       })
       
     },[])
