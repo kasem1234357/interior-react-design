@@ -11,7 +11,7 @@ function Gallery() {
         setFilterData(newDt)
     }
     useEffect(()=>{
-      axios.get('https://interior-server-xxlm.onrender.com/api/post').then(res => {
+      axios.get('https://interior-server-xxlm.onrender.com/api/user/post').then(res => {
         setData(res.data)
         setFilterData(res.data)
       })
