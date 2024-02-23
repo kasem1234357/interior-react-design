@@ -4,9 +4,9 @@ function Contacts() {
   return (
     <>
      <section id="contact" className="contact-link">
-        <img className="sun" src="../images/3.png" alt=""/>
+        <img className="sun" src="./images/3.png" alt=""/>
         <div className="left-imgs">
-            <img src="../images/3.jpg" alt=""/>
+            <img src="./images/3.jpg" alt=""/>
         </div>
         <div className="content">
             <h2>  LETS GET IN TOUCH  </h2>
@@ -14,13 +14,13 @@ function Contacts() {
                we will help you by best interior design</p>
                <button>Lets Talk</button>
                <div className="bottom-imgs">
-                <img src="../images/5.jpg" alt="" srcset=""/>
+                <img src="./images/5.jpg" alt="" srcset=""/>
             </div>
         </div>
       
         
         <div className="right-imgs">
-            <img src="../images/1.jpg" alt="" srcset=""/>
+            <img src="./images/1.jpg" alt="" srcset=""/>
         </div>
     </section>
     <section className="testimonial">
@@ -36,7 +36,7 @@ function Contacts() {
             <div className="user">
                 <div className="user-details">
                     <div className="user-img">
-                        <img src="../images/images/6.jpg" alt="" srcset=""/>
+                        <img src="./images/6.jpg" alt="" srcset=""/>
                                    
                  
                     </div>
