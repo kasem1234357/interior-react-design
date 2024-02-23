@@ -3,13 +3,13 @@ import React from 'react'
 function About() {
   return (
     <section id="about" className="about-us">
-        <img className="sun" src="../images/3.png" alt=""/>
+        <img className="sun" src="./images/3.png" alt=""/>
         <div className="img-box">
-            <img src="../images/4.jpg" alt=""/>
+            <img src="./images/4.jpg" alt=""/>
         </div>
         <div className="content-box">
             <div className="img-area"> 
-                <img src="../images/5.jpg" alt=""/>
+                <img src="./images/5.jpg" alt=""/>
             </div>
             
             <div className="content">
