@@ -28,14 +28,14 @@ function Header() {
     </div>
     <div className="img-box">
         <div className="img-main img-1">
-            <img src="../images/1.jpg" alt=""/>
+            <img src="./images/1.jpg" alt=""/>
         </div>
         <div className="img-other">
             <div className=" img-2"> 
-                <img src="../images/2.jpg" alt=""/>
+                <img src="./images/2.jpg" alt=""/>
             </div>
             <div className="img-3">
-                <img src="../images/3.jpg" alt=""/>
+                <img src="./images/3.jpg" alt=""/>
             </div>
         </div>
         
