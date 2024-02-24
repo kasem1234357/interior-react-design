@@ -27,6 +27,7 @@ function Gallery() {
                 <li onClick={()=>{filter('restaurant')}}>RESTAURANT</li>
                 <li onClick={()=>{filter('office')}}>OFFICE SPACE</li>
                 <li onClick={()=>{filter('other')}}>OTHER SPACE</li>
+                <li onClick={()=>{setFilterData(data)}}>ALL</li>
             </ul>
             <div className="gallery-main-link">
                 FULL GALLERY
