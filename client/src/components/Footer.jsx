@@ -8,7 +8,7 @@ function Footer() {
             <ul>
                 <li><h2>Address</h2></li>
                 <li>lebanon</li>
-                <li>Beirut , m2 street</li>
+                <li>Beirut , al janah sultan ibrahim</li>
                 <li>+961 76 014 886</li>
             </ul>
         </div>
