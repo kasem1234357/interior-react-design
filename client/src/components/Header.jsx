@@ -4,7 +4,7 @@ function Header() {
   return (
     <header id="home">
     <div  className="text-box">
-        <h1>Dark interior <br/>
+        <h1>H K Home Decoration <br/>
         For Your Room</h1>
         <p>Get your dream interior with us!</p>
         <div className="btns">
